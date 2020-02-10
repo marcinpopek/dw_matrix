@@ -1,2 +1,2 @@
-# dw_matrix
-Projekt transformacja - Matrix
+DataWorkshop Matrix - discover the rules of the game
+Start building your portfolio on GitHub
